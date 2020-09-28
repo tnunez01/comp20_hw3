@@ -20,6 +20,14 @@ nav {
     background-color: #000000;
     overflow: hidden;
 }
+
+footer {
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
 nav a {
     float: left;
     display: block;
