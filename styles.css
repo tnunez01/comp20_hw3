@@ -1,0 +1,75 @@
+body {
+    background-color: #80f4f8;
+    text-align: center;
+}
+
+h1 {
+    font-family: Brush Script MT;
+    font-size: 40px;
+    color: #000000;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+nav {
+    border-radius: 15px;
+    background-color: #000000;
+    overflow: hidden;
+}
+nav a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 24px;
+}
+nav a:hover {
+    color:  #00ffff;
+}
+
+form {
+    display: inline-block;
+    font-size: large;
+}
+
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.reg_text {
+    font-size: 24px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.info {
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+footer {
+    border-radius: 15px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
